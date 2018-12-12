@@ -1,0 +1,3 @@
+Using launch settings from /home/twilson/dev/personal/emergency-notifier/src/tst/Properties/launchSettings.json...
+: Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager[0]
+      User profile is available. Using '/home/twilson/.aspnet/DataProtection-Keys' as key repository; keys will not be encrypted at rest.
